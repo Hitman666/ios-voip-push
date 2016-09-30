@@ -1,7 +1,7 @@
 # How to create a native iOS app that can receive VoIP push notifications
 
 ## TL;DR
-In [this tutorial](), I'll give you step by step instructions on how to create a native iOS app with Swift (ObjectiveC code also available in the Github repo) that can receive VoIP push notifications sent with Houston, custom PHP script or through Amazon SNS.
+In [this tutorial](http://www.nikola-breznjak.com/blog/ios/create-native-ios-app-can-receive-voip-push-notifications/), I'll give you step by step instructions on how to create a native iOS app with Swift (ObjectiveC code also available in the Github repo) that can receive VoIP push notifications sent with Houston, custom PHP script or through Amazon SNS.
 
 > This tutorial is largely inspired by [this one](http://pierremarcairoldi.com/ios-8-voip-notifications/) (one of the few that actually made sense and made the steps manageable). However, I've added some not so obvious steps and fixed the issues that I had with the newest versions. Also, I added the link to the finished [project on Github](https://github.com/Hitman666/ios-voip-push) for further reference.
 
