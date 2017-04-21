@@ -11,7 +11,6 @@ The official documentation can be found [here](https://developer.apple.com/libra
 + app is automatically relaunched if it’s not running when a VoIP push is received
 + device is woken up only when VoIP push occurs (saves battery)
 + VoIP pushes go straight to your app for processing and are delivered without delay
-+ app is automatically relaunched if it’s not running when a VoIP push is received
 
 ## Prerequisite settings
 Apple provides us with a framework called `PushKit` to support using this VoIP push feature. However, we need to configure some additional settings to get this working.
