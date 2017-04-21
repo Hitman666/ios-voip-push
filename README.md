@@ -11,7 +11,6 @@ The official documentation can be found [here](https://developer.apple.com/libra
 + app is automatically relaunched if it’s not running when a VoIP push is received
 + device is woken up only when VoIP push occurs (saves battery)
 + VoIP pushes go straight to your app for processing and are delivered without delay
-+ app is automatically relaunched if it’s not running when a VoIP push is received
 
 ## Prerequisite settings
 Apple provides us with a framework called `PushKit` to support using this VoIP push feature. However, we need to configure some additional settings to get this working.
@@ -279,5 +278,3 @@ In this tutorial you've learned how to create a **native** iOS app with Swift th
 I bolded **native** for a reason in the sentence above. As you know, I'm a big fan of hybrid apps and [Ionic framework](http://ionicframework.com/) in particular.
 
 This post is a part of the recent task that I had to do to create the Cordova VoIP push plugin. To successfully complete that, I first made the native app and then the plugin, since (unfortunately) the plugin wasn't available.
-
-I'll update this post with a link to the Cordova plugin post once finished.
