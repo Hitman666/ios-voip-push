@@ -278,5 +278,3 @@ In this tutorial you've learned how to create a **native** iOS app with Swift th
 I bolded **native** for a reason in the sentence above. As you know, I'm a big fan of hybrid apps and [Ionic framework](http://ionicframework.com/) in particular.
 
 This post is a part of the recent task that I had to do to create the Cordova VoIP push plugin. To successfully complete that, I first made the native app and then the plugin, since (unfortunately) the plugin wasn't available.
-
-I'll update this post with a link to the Cordova plugin post once finished.
